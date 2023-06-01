@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from api.models import Company
-from companyapi.api.models import Employee
+from api.models import Employee
 
 
 
